@@ -1,8 +1,14 @@
-### Olá! Me chamo Teylor Moreto Guaitolini, sou estudante de engenharia de controle e automação.
+### Olá! Me chamo Teylor Moreto Guaitolini, sou Estudante de Engenharia de Controle e Automação do IFES.
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teylorguaitolini&count_private=true&show_icons=true&theme=dark)
-##
 
-- Linguagens: C++, C#, Java e Python.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Teylor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Teylor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Teylor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Teylor-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</div>
+
+##
 - Atualmente estudando: NodeRed
