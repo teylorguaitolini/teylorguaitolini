@@ -1,9 +1,10 @@
-### Olá! Me chamo Teylor Moreto Guaitolini, sou Estudante de Engenharia de Controle e Automação do IFES.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=teylorguaitolini&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teylorguaitolini&layout=demo&theme=dark" />
+</a>
 
-##
-- Estudando: Python, Java, C#, C++ e Node-RED
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teylorguaitolini&count_private=true&show_icons=true&theme=dark)
 <div style="display: inline_block"><br>
   <img align="center" alt="Teylor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Teylor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
